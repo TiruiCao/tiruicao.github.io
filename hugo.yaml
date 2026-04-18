@@ -1,6 +1,6 @@
-baseurl: "/"
+baseurl: "https://TiruiCao.github.io/"
 languageCode: "en-US"
-title: "A Hugo theme inspired by paged.js"
+title: "Tirui (Steve) Cao - Personal Website"
 theme: "hugo-paged"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
@@ -10,19 +10,38 @@ outputs:
 
 menu:
   main:
-    - name: Github
-      url: "https://github.com/yihui/hugo-paged"
-      weight: 10
-      params:
-        class: [optional]
+    - name: Home
+      url: "/home/"
+      weight: 1
+    - name: Research
+      url: "/research/"
+      weight: 2
+    - name: Teaching
+      url: "/teaching/"
+      weight: 3
+    - name: Industry
+      url: "/industry/"
+      weight: 4
+    - name: Service
+      url: "/service/"
+      weight: 5
+    - name: Awards
+      url: "/awards/"
+      weight: 6
+    - name: Presentations
+      url: "/presentations/"
+      weight: 7
+    - name: Miscellaneous
+      url: "/miscellaneous/"
+      weight: 8
 
 params:
-  description: "A website built through Hugo with the hugo-paged theme."
+  description: "Personal website of Tirui (Steve) Cao."
   logo:
     en:
       alt: LOGO TEXT
       img: # a path to the logo
-  footer: "&copy; [Yihui Xie](https://yihui.org) {Year}"
+  footer: "&copy; [Tirui (Steve) Cao](/), 2026--{Year}"
 
 markup:
   highlight:
