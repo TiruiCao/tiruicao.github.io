@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Routeia on Tirui (Steve) Cao - Personal Website</title>
+    <link>http://localhost:1313/routeia/</link>
+    <description>Recent content in Routeia on Tirui (Steve) Cao - Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/routeia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Routeia</title>
+      <link>http://localhost:1313/routeia/20260419_intro-to-routeia/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/routeia/20260419_intro-to-routeia/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Routeia&lt;/em&gt; (&lt;code&gt;/ˈraʊtiə/&lt;/code&gt;) is my small, evolving research initiative for applying optimization and analytics to interesting decision problems, starting with transportation science and logistics (TSL) and extending beyond it.&#xA;Through Routeia, I aim to pursue practice-driven, openly shared research that can inspire both researchers and practitioners.&#xA;To start, I plan to publish technical notes and blog posts on my personal website.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

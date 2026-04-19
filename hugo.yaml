@@ -2,16 +2,16 @@ baseurl: "https://TiruiCao.github.io/"
 languageCode: "en-US"
 title: "Tirui (Steve) Cao - Personal Website"
 theme: "hugo-paged"
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+ignoreFiles: [ "\\.Rmd$", "\\.Rmarkdown$", "_cache$" ]
 footnotereturnlinkcontents: "↩"
 
 outputs:
-  home: [html, rss, json]
+  home: [ html, rss, json ]
 
 menu:
   main:
     - name: Home
-      url: "/home/"
+      url: "/"
       weight: 1
     - name: Research
       url: "/research/"
@@ -19,29 +19,26 @@ menu:
     - name: Teaching
       url: "/teaching/"
       weight: 3
-    - name: Industry
-      url: "/industry/"
-      weight: 4
     - name: Service
       url: "/service/"
-      weight: 5
+      weight: 4
     - name: Awards
       url: "/awards/"
-      weight: 6
+      weight: 5
     - name: Presentations
       url: "/presentations/"
-      weight: 7
+      weight: 6
     - name: Miscellaneous
       url: "/miscellaneous/"
-      weight: 8
+      weight: 7
 
 params:
   description: "Personal website of Tirui (Steve) Cao."
   logo:
     en:
-      alt: LOGO TEXT
+      alt: TIRUI’S RECIPES
       img: # a path to the logo
-  footer: "&copy; [Tirui (Steve) Cao](/), 2026--{Year}"
+  footer: "&copy; [Tirui (Steve) Cao](/), 2026 -- {Year}"
 
 markup:
   highlight:

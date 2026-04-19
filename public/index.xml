@@ -6,98 +6,56 @@
     <description>Recent content in Home on Tirui (Steve) Cao - Personal Website</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/docs/01-intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/01-intro/</guid>
-      <description>&lt;p&gt;The Hugo Paged theme was inspired by &lt;a href=&#34;https://pagedjs.org&#34;&gt;the paged.js website&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-pagedjs-website&#34;&gt;The paged.js website&lt;/h2&gt;&#xA;&lt;p&gt;The paged.js library is awesome. Its website is also beautiful.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-crop-marks&#34;&gt;The crop marks&lt;/h3&gt;&#xA;&lt;p&gt;I love the crop marks. I couldn&amp;rsquo;t imagine that they were made from three rectangles:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;div class=&amp;quot;crop-h&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- horizontal lines --&amp;gt;&#xA;&amp;lt;div class=&amp;quot;crop-v&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- vertical lines --&amp;gt;&#xA;&amp;lt;div class=&amp;quot;crop-c&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- cover some segments --&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Make their position absolute, and shrink them a little bit:&lt;/p&gt;</description>
+      <title>Introduction to Routeia</title>
+      <link>http://localhost:1313/routeia/20260419_intro-to-routeia/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/routeia/20260419_intro-to-routeia/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Routeia&lt;/em&gt; (&lt;code&gt;/ˈraʊtiə/&lt;/code&gt;) is my small, evolving research initiative for applying optimization and analytics to interesting decision problems, starting with transportation science and logistics (TSL) and extending beyond it.&#xA;Through Routeia, I aim to pursue practice-driven, openly shared research that can inspire both researchers and practitioners.&#xA;To start, I plan to publish technical notes and blog posts on my personal website.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Getting started</title>
-      <link>http://localhost:1313/docs/02-get-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/02-get-started/</guid>
-      <description>&lt;p&gt;There are two ways to get started with this theme, depending on whether you use R or Hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;r-users&#34;&gt;R users&lt;/h2&gt;&#xA;&lt;p&gt;If you use R, the easiest way to get started is to install &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;the &lt;strong&gt;blogdown&lt;/strong&gt; package&lt;/a&gt;, and create a new site with this theme:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&#39;blogdown&#39;)&#xA;blogdown::new_site(theme = &#39;yihui/hugo-paged&#39;)&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Or you can &lt;a href=&#34;https://bookdown.org/yihui/blogdown/a-quick-example.html&#34;&gt;create a new RStudio &lt;strong&gt;blogdown&lt;/strong&gt; project&lt;/a&gt; (if you use RStudio) with the &lt;code&gt;yihui/hugo-paged&lt;/code&gt; theme.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo-users&#34;&gt;Hugo users&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Create a new Hugo site with &lt;code&gt;hugo new&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yihui/hugo-paged/archive/refs/heads/main.zip&#34;&gt;Download this theme from Github&lt;/a&gt; and unzip it to the &lt;code&gt;themes/hugo-paged&lt;/code&gt; directory.&lt;/li&gt;&#xA;&lt;li&gt;Move all content of the &lt;code&gt;exampleSite&lt;/code&gt; directory in this theme to the root directory of the new site.&lt;/li&gt;&#xA;&lt;li&gt;Run &lt;code&gt;hugo server&lt;/code&gt; and start playing with the new site.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Customization</title>
-      <link>http://localhost:1313/docs/03-customization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/03-customization/</guid>
-      <description>&lt;p&gt;The more you know, the less real work you will get done. You have been warned.&lt;/p&gt;&#xA;&lt;h2 id=&#34;site-config&#34;&gt;Site config&lt;/h2&gt;&#xA;&lt;p&gt;In your site config file (&lt;code&gt;hugo.yaml&lt;/code&gt; or &lt;code&gt;config.yaml&lt;/code&gt;), you can customize some options such as the top menu or footer, which should be straightforward to understand if you take a look at the &lt;code&gt;exampleSite&lt;/code&gt;&amp;rsquo;s config file.&lt;/p&gt;&#xA;&lt;p&gt;If you want to add a logo to the left of the top navigation bar, you can use the &lt;code&gt;logo&lt;/code&gt; parameter, e.g.,&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>http://localhost:1313/blog/2016-02-14-hello-markdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016-02-14-hello-markdown/</guid>
-      <description>&lt;h2 id=&#34;sample-text&#34;&gt;Sample Text&lt;/h2&gt;&#xA;&lt;h3 id=&#34;third-level-header&#34;&gt;Third-level header&lt;/h3&gt;&#xA;&lt;h4 id=&#34;fourth-level-header&#34;&gt;Fourth-level header&lt;/h4&gt;&#xA;&lt;p&gt;A paragraph (with a footnote):&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam,&#xA;quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&#xA;consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum&#xA;dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,&#xA;sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>http://localhost:1313/blog/2015-07-23-lorem-ipsum/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015-07-23-lorem-ipsum/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;&lt;p&gt;Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/awards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/awards/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/industry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/industry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
+      <title>Miscellaneous</title>
       <link>http://localhost:1313/miscellaneous/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/miscellaneous/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;more-about-me&#34;&gt;More about Me&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I am a huge foodie, especially when it comes to Japanese cuisine and sushi 🍣.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;According to my photo archive, I had more than 550 pieces of sushi in 2024 alone.&lt;/li&gt;&#xA;&lt;li&gt;I hosted three Japanese culinary events in Beijing and curated the menus for each of them.&lt;/li&gt;&#xA;&lt;li&gt;I interviewed a female kaiseki chef&amp;mdash;which is still quite rare in this field&amp;mdash;and wrote an article published by a media outlet.&lt;/li&gt;&#xA;&lt;li&gt;Like many food lovers, I once thought my passion for food would naturally lead to cooking. After quite a number of failed attempts, however, I have had to admit that I am sadly not a good cook 😞.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I am also a wine and spirits enthusiast, with a particular fondness for Japanese sake, Champagne, and cocktails. I am always on the lookout for memorable bottles, hidden gems, and beautifully crafted drinks. One of my favorite bottles is Dom Ruinart Rosé 1996.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Awards</title>
+      <link>http://localhost:1313/awards/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/awards/</guid>
+      <description>&lt;h2 id=&#34;grants&#34;&gt;Grants&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025: TSL Cross-Regional Doctoral Grant, INFORMS TSL Society&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Three PhD students worldwide&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2024: THU Doctoral Grant, Tsinghua University&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;scholarships&#34;&gt;Scholarships&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022: Excellent Teaching Assistant Award, Tsinghua University&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Four PhD students in Department of IE&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2020&amp;ndash;2025: Future Scholar Scholarship, Tsinghua University&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Four PhD students in Department of IE&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;2020: Excellent Graduate Award, Tsinghua University&lt;/li&gt;&#xA;&lt;li&gt;2018: National Scholarship, Tsinghua University&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Presentations</title>
       <link>http://localhost:1313/presentations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/presentations/</guid>
-      <description></description>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Urban Delivery with Hierarchical Warehouses&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;2022 IEEE International Conference on Automation Science and Engineering (CASE)&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Aug 20222, Chengdu, China&lt;br&gt;&#xA;[The Second Prize Oral Presentation Winner @ Student Event]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;2023 INFORMS Transportation and Logistics (TLS) Society Conference&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Jul 2023, Chicago IL, USA&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;2024 Joint Event Sino-European Programme&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&#xA;May 2024, Hangzhou, China&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;2024 INFORMS Annual Meeting&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Oct 2024, Seattle WA, USA&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;2024 THU Diversity Day Event&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Dec 2024, Beijing, China&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;E-fulfillment Strategies under Stochastic Orders and Cancellations&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Research</title>
       <link>http://localhost:1313/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Author order is alphabetical.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Urban Delivery with Hierarchical Warehouses&lt;/strong&gt;&lt;br&gt;&#xA;with Xue Luo, Hengle Qin, Yilei Wan, Chen Wang, Lei Zhao&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intra-City Express Delivery Service Network Design&lt;/strong&gt;&lt;br&gt;&#xA;with Yixiao Huang, Alexandre Jacquillat, Alexandria Schmid, Lei Zhao&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Formulations for the Scheduled Service Network Design Problem: A Theoretical and Computational Comparison&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Service</title>
       <link>http://localhost:1313/service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/service/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;journal-referee&#34;&gt;Journal Referee&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Transportation Science&lt;/em&gt;: 2025 &amp;ndash; Present&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Teaching</title>
       <link>http://localhost:1313/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About Hugo Paged</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I immediately loved the design of &lt;a href=&#34;https://pagedjs.org&#34;&gt;the paged.js website&lt;/a&gt; when I first saw it a couple of years ago.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; I have published a few books before, so the crop marks on the website caught my attention first, which gave me a familiar feel of printed books. The second thing that I appreciated was the rotated floral heart bullet behind the title of each page, i.e.,&lt;/p&gt;&#xA;&lt;div style=&#34;font-size:9em;text-align:center;color:#ccc;&#34;&gt;❧&lt;/div&gt;&#xA;&lt;p&gt;So I wrote a Hugo theme that mimics the style of the paged.js website. I tried not to look at its HTML/CSS source code, but I had to read the source to figure out:&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;tsinghua-university&#34;&gt;Tsinghua University&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction to Decision Making (Graduate)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fall 2020: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;li&gt;Fall 2021: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;li&gt;Fall 2022: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Operations Research I: Deterministic Models (Undergraduate)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fall 2024: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;li&gt;Fall 2025: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Operations Research III: Decision Making (Undergraduate)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spring 2020: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;li&gt;Spring 2021: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;li&gt;Spring 2022: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;li&gt;Spring 2023: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;li&gt;Spring 2024: Teaching Assistant (Instructor: Lei Zhao)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Decision Analytics (Undergraduate)&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
