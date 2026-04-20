@@ -37,6 +37,7 @@ disable_math: true
 Hi there, I'm Tirui Cao, and some friends call me Steve.
 I am currently a final-year PhD student in the [Department of Industrial Engineering](https://www.ie.tsinghua.edu.cn/eng/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Lei Zhao](https://www.ie.tsinghua.edu.cn/eng/info/1051/1016.htm).
 During my PhD, I visited the [MIT Sloan School of Management](https://mitsloan.mit.edu/) as a visiting student, hosted by Professor [Alexandre Jacquillat](https://mitsloan.mit.edu/faculty/directory/alexandre-jacquillat).
+Before that, I earned my bachelor’s degree from the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 <!-- This visit was financially supported by THU Doctoral Grant \& TSL Cross-Regional Doctoral Grant. -->
 
 Broadly speaking, I develop mathematical models and scalable algorithms for large-scale combinatorial optimization problems, with a focus on transportation science and logistics ([TSL](https://connect.informs.org/tsl/home)).
