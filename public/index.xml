@@ -6,8 +6,15 @@
     <description>Recent content in Home on Tirui (Steve) Cao - Personal Website</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;papers-under-review&#34;&gt;Papers under Review&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Author order is alphabetical.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intra-City Express Delivery Service Network Design&lt;/strong&gt;&lt;br&gt;&#xA;with Yixiao Huang, Alexandre Jacquillat, Alexandria Schmid, and Lei Zhao&lt;br&gt;&#xA;under review at &lt;em&gt;Transportation Science&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.6641984&#34;&gt;SSRN preprint&lt;/a&gt;, Apr 2026&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Author order is alphabetical.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Urban Delivery with Hierarchical Warehouses&lt;/strong&gt;&lt;br&gt;&#xA;with Xue Luo, Hengle Qin, Yilei Wan, Chen Wang, and Lei Zhao&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Formulations for the Scheduled Service Network Design Problem: A Theoretical and Computational Comparison&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>Introduction to Routeia</title>
       <link>http://localhost:1313/routeia/20260419_intro-to-routeia/</link>
