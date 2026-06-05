@@ -1,13 +1,15 @@
 ---
 title: "Miscellaneous"
 slug: "miscellaneous"
-date: 2026-04-19
+date: 2026-06-05
 ---
 
 ## More about Me
 
 1. I am a huge foodie, especially when it comes to Japanese cuisine and sushi 🍣.  
-    - According to my photo archive, I had more than 550 pieces of sushi in 2024 alone.
+    - From 2021 to 2026, I logged 1,086 pieces of sushi (see the histgoram below). I believe this accounts for roughly 75% of the sushi I had, since many more were never photographed.
+    <p><img src="/images/miscellaneous/hist_sushi.svg" alt="Sushi histogram" style="max-width: 320px; width: 100%;"></p>  
+
     - I hosted three Japanese culinary events in Beijing and curated the menus for each of them.
     - I interviewed a female kaiseki chef---which is still quite rare in this field---and wrote an article published by a media outlet.
     - Like many food lovers, I once thought my passion for food would naturally lead to cooking. After quite a number of failed attempts, however, I have had to admit that I am sadly not a good cook 😞.

@@ -6,28 +6,21 @@
     <description>Recent content in Home on Tirui (Steve) Cao - Personal Website</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miscellaneous</title>
+      <link>http://localhost:1313/miscellaneous/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/miscellaneous/</guid>
+      <description>&lt;h2 id=&#34;more-about-me&#34;&gt;More about Me&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I am a huge foodie, especially when it comes to Japanese cuisine and sushi 🍣.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;From 2021 to 2026, I logged 1,086 pieces of sushi (see the histgoram below). I believe this accounts for roughly 75% of the sushi I had, since many more were never photographed.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/miscellaneous/hist_sushi.svg&#34; alt=&#34;Sushi histogram&#34; style=&#34;max-width: 320px; width: 100%;&#34;&gt;&lt;/p&gt;  &#xA;&lt;ul&gt;&#xA;&lt;li&gt;I hosted three Japanese culinary events in Beijing and curated the menus for each of them.&lt;/li&gt;&#xA;&lt;li&gt;I interviewed a female kaiseki chef&amp;mdash;which is still quite rare in this field&amp;mdash;and wrote an article published by a media outlet.&lt;/li&gt;&#xA;&lt;li&gt;Like many food lovers, I once thought my passion for food would naturally lead to cooking. After quite a number of failed attempts, however, I have had to admit that I am sadly not a good cook 😞.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I am also a wine and spirits enthusiast, with a particular fondness for Japanese sake, Champagne, and cocktails. I am always on the lookout for memorable bottles, hidden gems, and beautifully crafted drinks. One of my favorite bottles is Dom Ruinart Rosé 1996.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Research</title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
       <description>&lt;h2 id=&#34;papers-under-review&#34;&gt;Papers under Review&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Author order is alphabetical.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intra-City Express Delivery Service Network Design&lt;/strong&gt;&lt;br&gt;&#xA;with Yixiao Huang, Alexandre Jacquillat, Alexandria Schmid, and Lei Zhao&lt;br&gt;&#xA;under review at &lt;em&gt;Transportation Science&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.6641984&#34;&gt;SSRN preprint&lt;/a&gt;, Apr 2026&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Author order is alphabetical.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Urban Delivery with Hierarchical Warehouses&lt;/strong&gt;&lt;br&gt;&#xA;with Xue Luo, Hengle Qin, Yilei Wan, Chen Wang, and Lei Zhao&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Formulations for the Scheduled Service Network Design Problem: A Theoretical and Computational Comparison&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Introduction to Routeia</title>
-      <link>http://localhost:1313/routeia/20260419_intro-to-routeia/</link>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/routeia/20260419_intro-to-routeia/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Routeia&lt;/em&gt; (&lt;code&gt;/ˈraʊtiə/&lt;/code&gt;) is my small, evolving research initiative for applying optimization and analytics to interesting decision problems, starting with transportation science and logistics (TSL) and extending beyond it.&#xA;Through Routeia, I aim to pursue practice-driven, openly shared research that can inspire both researchers and practitioners.&#xA;To start, I plan to publish technical notes and blog posts on my personal website.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Miscellaneous</title>
-      <link>http://localhost:1313/miscellaneous/</link>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miscellaneous/</guid>
-      <description>&lt;h2 id=&#34;more-about-me&#34;&gt;More about Me&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I am a huge foodie, especially when it comes to Japanese cuisine and sushi 🍣.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;According to my photo archive, I had more than 550 pieces of sushi in 2024 alone.&lt;/li&gt;&#xA;&lt;li&gt;I hosted three Japanese culinary events in Beijing and curated the menus for each of them.&lt;/li&gt;&#xA;&lt;li&gt;I interviewed a female kaiseki chef&amp;mdash;which is still quite rare in this field&amp;mdash;and wrote an article published by a media outlet.&lt;/li&gt;&#xA;&lt;li&gt;Like many food lovers, I once thought my passion for food would naturally lead to cooking. After quite a number of failed attempts, however, I have had to admit that I am sadly not a good cook 😞.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I am also a wine and spirits enthusiast, with a particular fondness for Japanese sake, Champagne, and cocktails. I am always on the lookout for memorable bottles, hidden gems, and beautifully crafted drinks. One of my favorite bottles is Dom Ruinart Rosé 1996.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Awards</title>
