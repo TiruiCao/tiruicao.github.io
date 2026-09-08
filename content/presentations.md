@@ -8,7 +8,7 @@ date: 2026-04-18
     - **_2022 IEEE International Conference on Automation Science and Engineering (CASE)_**  
       Aug 20222, Chengdu, China  
       [The Second Prize Oral Presentation Winner @ Student Event]
-    - **_2023 INFORMS Transportation and Logistics (TLS) Society Conference_**  
+    - **_2023 INFORMS Transportation Science and Logistics (TSL) Society Conference_**  
        Jul 2023, Chicago IL, USA
     - **_2024 Joint Event Sino-European Programme_**  
        May 2024, Hangzhou, China
@@ -26,5 +26,5 @@ date: 2026-04-18
 3. **Intra-City Express Delivery Service Network Design**
     - **_2025 INFORMS Annual Meeting_**  
       Oct 2025, Atlanta GA, USA
-    - **(_Upcoming_) _2026 INFORMS Transportation and Logistics (TLS) Society Conference_**  
+    - **_2026 INFORMS Transportation Science and Logistics (TSL) Society Conference_**  
       Jul 2026, Cambridge MA, USA
